@@ -1,0 +1,1 @@
+# gloomhaven-item-db-server
